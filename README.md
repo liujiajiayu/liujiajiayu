@@ -1,4 +1,4 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liujiajiayu&show_icons=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liujiajiayu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liujiajiayu&layout=compact)
 <!--
